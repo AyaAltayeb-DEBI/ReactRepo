@@ -6,4 +6,9 @@
   - Then, cloned it locally.
   - Afterthat, a react app is created using `npx create-react-app  react-repo` as I installed it previously in my machine.
   - Then, use the command `npm i gh-pages --save-dev`  to install github pages module.
+  - In he json.package:
+    - "homepage": "http://AyaAltayeb-DEBI.github.io/ReactRepo"
+    - In the same file under the scripts
+      - `"predeploy":"npm run build"`
+      - `"deploy":"gh-pages -d build"`
   - 

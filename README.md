@@ -11,4 +11,8 @@
     - In the same file under the scripts
       - `"predeploy":"npm run build"`
       - `"deploy":"gh-pages -d build"`
-- 
+- Other guides in this link and this video
+- https://github.com/gitname/react-gh-pages
+- https://www.youtube.com/watch?v=4G6O0BIoq6M
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"

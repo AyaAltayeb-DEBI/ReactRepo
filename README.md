@@ -15,5 +15,6 @@
 - https://github.com/gitname/react-gh-pages
 - https://www.youtube.com/watch?v=4G6O0BIoq6M
 - https://dev.to/collegewap/how-to-deploy-react-application-to-github-pages-41f7
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
+- Do not forget to sign in:
+  `git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"`

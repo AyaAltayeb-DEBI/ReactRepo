@@ -1,5 +1,5 @@
 # ReactRepo
-- The purpose of this repository is to help me keep the feature I learnt to develp in one pool.
+- The purpose of this repository is to help me keep the learnt features in one pool.
 - Feel free to explore the repo and use the features.
 - The steps to create a deployed app are:
   - First, I have created new repository over github.
